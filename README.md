@@ -17,4 +17,4 @@ Nesta fase, coletamos os dados brutos. O objetivo é a **ingestão rápida** e a
 
 Aqui estão os dados como eles chegaram: misturados e guardados no formato **Delta/Parquet**.
 
-![O Balde de Dados Brutos](https://i.imgur.com/eG1M5O0.png)
+
