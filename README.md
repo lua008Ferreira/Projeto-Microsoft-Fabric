@@ -27,5 +27,4 @@ O **OneLake** é o sistema de armazenamento único e lógico para toda a organiz
 * **Aberto:** Baseado no formato **Delta Lake** (Parquet), permitindo que qualquer ferramenta compatível o acesse.
 * **Seguro:** Governança centralizada para todos os seus dados.
 
-![O Balde de Dados Brutos (Camada Bronze)](https://i.imgur.com/eG1M5O0.png)
 
